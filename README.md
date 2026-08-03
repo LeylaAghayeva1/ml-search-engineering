@@ -144,4 +144,14 @@ build on — and the `skills/` folder here is the instruction library for your A
 
 ---
 
+# Capstone Research Paper
+
+Predicting Declining Content Pages for Refresh Prioritization
+
+Live Paper:
+
+
+Repository:
+https://github.com/LeylaAghayeva1/ml-search-engineering
+
 *Track leads: Mirza Ašćerić (ML) · Hole (data engineering). Code under MIT (see `LICENSE`); data under `DATA_USE.md`.*
