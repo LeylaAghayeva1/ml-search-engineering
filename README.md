@@ -149,7 +149,7 @@ build on — and the `skills/` folder here is the instruction library for your A
 Predicting Declining Content Pages for Refresh Prioritization
 
 Live Paper:
-
+https://leylaaghayeva1.github.io/ml-search-engineering/
 
 Repository:
 https://github.com/LeylaAghayeva1/ml-search-engineering
